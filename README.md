@@ -66,3 +66,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+//-------------------------------------------------------------------------
+
+NOTA:
+    -> na criação de um novo ficheiro .js, escreve 'rcc' e ele faz automaticamente um class component
+
+
+
+installed dependencies
+
+npm i --save materialize-css
+npm i --save react-router-dom
+npm i --save node-sass
+
+
+
+
+
+
