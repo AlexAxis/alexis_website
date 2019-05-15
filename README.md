@@ -81,7 +81,8 @@ installed dependencies
 npm i --save materialize-css
 npm i --save react-router-dom
 npm i --save node-sass
-
+npm i --save dependency-cruiser
+        depcruise --exclude "^node_modules" --output-type dot src | dot -T svg > dependencygraph.svg
 
 
 
