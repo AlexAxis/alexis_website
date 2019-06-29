@@ -85,6 +85,7 @@ npm i --save dependency-cruiser
         depcruise --exclude "^node_modules" --output-type dot src | dot -T svg > dependencygraph.svg
 
 
-
+npm i --save react-parallax
+npm i --save font-awesome
 
 

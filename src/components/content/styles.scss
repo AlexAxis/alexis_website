@@ -1,6 +1,7 @@
 .content-grid {
   display: grid;
   grid-template: 1fr / 1fr 1fr 1fr;
+  position: relative;
 }
 
 .middle-grid-flexbox {
@@ -13,6 +14,7 @@
 .icon {
     //animation: App-logo-spin infinite 20s linear;
   height: 50px;
+  width: 50px;
   //pointer-events: none;
 }
 
@@ -50,5 +52,16 @@
     transform: translate3d(-3px, 0, 0);
   }
 }
+
+
+
+// .button-hover:hover {
+//   background-color: rgba(255, 204, 128, 0.3) !important;
+//   //animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+//   //transform: translate3d(0, 0, 0);
+//   backface-visibility: hidden;
+//   perspective: 1000px;
+
+// }
 
 
