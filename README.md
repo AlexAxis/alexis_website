@@ -93,6 +93,8 @@ npm i --save font-awesome
 
 
 //-------- deploy and build
+npm run build
+
 pm2 ecosystem
     (edit: name, script, args)
 pm2 start ecosystem.config.js
