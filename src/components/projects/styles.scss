@@ -1,0 +1,28 @@
+
+.row{
+    width: 90%;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .row:after {
+    content: none !important;
+  }
+  
+  .row_white{
+    width: 100%;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .card{
+    width: 500px;
+    height: fit-content;
+  }
+  
+  .card-title{
+    text-align: center;
+  }

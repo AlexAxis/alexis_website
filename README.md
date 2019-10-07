@@ -80,12 +80,16 @@ installed dependencies
 
 npm i --save materialize-css
 npm i --save react-router-dom
+        (https://codesandbox.io/s/vvoqvk78)
 npm i --save node-sass
 npm i --save dependency-cruiser
         depcruise --exclude "^node_modules" --output-type dot src | dot -T svg > dependencygraph.svg
 
 
 npm i --save react-parallax
+        (https://reactjsexample.com/a-react-component-for-parallax-effect/
+        https://codesandbox.io/embed/r0yEkozrw?view=preview
+        https://www.npmjs.com/package/react-parallax)
 npm i --save font-awesome
 
 
@@ -98,3 +102,8 @@ npm run build
 pm2 ecosystem
     (edit: name, script, args)
 pm2 start ecosystem.config.js
+
+
+
+//-------- install module node-sass
+sudo npm install --save --unsafe-perm node-sass
