@@ -19,6 +19,7 @@ const Skills = (props) => {
             <div>
               <h5>Backend</h5>
               <li>NodeJs</li>
+              <li>PHP</li>
               <li>Express</li>
               <li>MongoDB</li>
               <li>SQL</li>
