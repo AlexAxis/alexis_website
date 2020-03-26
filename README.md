@@ -107,3 +107,6 @@ pm2 start ecosystem.config.js
 
 //-------- install module node-sass
 sudo npm install --save --unsafe-perm node-sass
+
+//-------- install github pages (to be able to serve it online) https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+npm install gh-pages --save-dev
