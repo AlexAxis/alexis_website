@@ -112,5 +112,7 @@ sudo npm install --save --unsafe-perm node-sass
 npm install gh-pages --save-dev
 
 
+
+https://create-react-app.dev/docs/deployment/#building-for-relative-paths
 npm install --save gh-pages
 npm run deploy
