@@ -1,7 +1,7 @@
 {
   "name": "alexis_website",
   "version": "0.1.0",
-  "homepage": "http://AlexAxis.github.io/alexis_website",
+  "homepage": "https://alexis.studio",
   "private": true,
   "dependencies": {
     "dependency-cruiser": "^4.18.0",
